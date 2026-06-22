@@ -19,3 +19,9 @@ ilk olarak hızlıca klasik html ve css'i kullandın. Ama gördün ki bu iş git
 - İpucu: hover pseudo-class'ını styled component'in içinde yazabilirsin.
 
 - İpucu: styled bir component'e prop ileterek dinamik stil kuralları oluşturabilirsin.
+
+## Önemli Notlar
+
+- Proje dizinindeki `user.json` dosyasını bulun ve `user_id` alanını NextGen proje ekranında görünen kendi `user_id` değeriniz ile güncelleyin.
+- Geliştirme sırasında testleri izlemek için `npm test` komutunu kullanın.
+- Testleri çalıştırıp skoru NextGen'e kaydetmek için `npm run sendresults` komutunu kullanın.
